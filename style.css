@@ -8,12 +8,30 @@
 .corpo{
     margin: 0px auto;
     max-width: 90vw;
-    height: 100vh;
+    height: 60vh;
 }
 .card{
     background-color: darkolivegreen;
     margin: 2.5vh 2.5vw;
     width: 40vw;
+    height: 100px;
+    float: left;
+}
+.buttonsBox{
+    margin: 0px auto;
+    max-width: 30vw;
+    height: 10vh;
+}
+
+.button{
+    width: 10vw;
+    margin: 0px 10vw;
+    border: 0px 0px;
+}
+.card2{
+    background-color: darkolivegreen;
+    margin: 2.5vh 2.5vw;
+    width: 25vw;
     height: 100px;
     float: left;
 }
