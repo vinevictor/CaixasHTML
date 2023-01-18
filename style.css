@@ -1,0 +1,19 @@
+.cabecalho{
+    max-width: 60vw;
+    margin: 0 auto;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.corpo{
+    margin: 0px auto;
+    max-width: 90vw;
+    height: 100vh;
+}
+.card{
+    background-color: darkolivegreen;
+    margin: 2.5vh 2.5vw;
+    width: 40vw;
+    height: 100px;
+    float: left;
+}
